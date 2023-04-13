@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="latest_release">Latest Release</string>
+    <string name="popularity">Popularity</string>
+    <string name="all_regions">All Regions</string>
+    <string name="regions">Regions</string>
+    <string name="sort">Sort</string>
+    <string name="time_periods">Time/Periods</string>
+    <string name="all_periods">All Periods</string>
+    <string name="genre">Genre</string>
+
+    <string name="video_is_downloading">Video is downloading…</string>
+</resources>

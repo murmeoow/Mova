@@ -1,0 +1,396 @@
+<resources>
+
+    <string name="app_name">Mova</string>
+
+    <string name="start_screen_title">Let\'s you in</string>
+    <string name="start_screen_continue_facebook">Continue with Facebook</string>
+    <string name="start_screen_continue_google">Continue with Google</string>
+    <string name="start_screen_continue_apple">Continue with Apple</string>
+    <string name="start_screen_or">or</string>
+    <string name="start_screen_sign_in">Sign in with password</string>
+    <string name="start_screen_enter_as_guest">Enter as guest</string>
+    <string name="start_screen_message_text">Don\'t have an account?</string>
+    <string name="start_screen_sign_up">Sign up</string>
+
+    <!--    Alert dialogs and common texts-->
+    <string name="ok_text">OK</string>
+    <string name="try_again_text">Try again</string>
+    <string name="please_try_again_text">Please try again</string>
+    <string name="sorry_text">Sorry</string>
+    <string name="unavailable_service_text">Service is temporarily unavailable</string>
+    <string name="unavailable_service2_text">Service is unavailable</string>
+    <string name="congratulations_text">Congratulations!</string>
+    <string name="redirect_to_home_text">Your account is ready to use. You will be redirected to the Home page in a few seconds..</string>
+    <string name="skip_text">Skip</string>
+    <string name="continue_text">Continue</string>
+    <string name="check_internet_text">Please make sure you’re connected to the internet and try again</string>
+    <string name="access_denied_text">Access denied</string>
+    <string name="redirect_to_start_text">You will be redirected to the Start page  in a few seconds</string>
+    <string name="something_went_wrong_text">Something went wrong. Please try again later</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="submit_text">Submit</string>
+    <string name="close_text">Close</string>
+    <string name="app_name_text">Mova</string>
+
+    <string name="login_screen_sign_in">Sign in</string>
+    <string name="login_screen_login">Login to Your Account</string>
+    <string name="login_screen_email">Username</string>
+    <string name="login_screen_password">Password</string>
+    <string name="login_screen_forgot_password">Forgot the password?</string>
+    <string name="login_screen_continue_with">or continue with</string>
+    <string name="login_screen_invalid_username_password">Invalid username and/or password</string>
+    <string name="login_screen_account_disabled">Account disabled: Your account is no longer active</string>
+    <string name="login_screen_email_not_verified">Email not verified: Your email address has not been verified</string>
+    <string name="login_screen_auth_failed">Authentication failed</string>
+    <string name="login_screen_error">Error</string>
+
+    <string name="see_all">See all</string>
+    <string name="share">Share</string>
+    <string name="my_list">My List</string>
+    <string name="play">Play</string>
+    <string name="create_account_screen_title">Create Your Account</string>
+    <string name="create_account_screen_create_password">Create the password</string>
+    <string name="create_account_screen_repeat_password">Repeat the password</string>
+    <string name="create_account_screen_already_have_account">Already have an account?</string>
+
+    <string name="choose_your_interest_title">Choose Your Interest</string>
+    <string name="choose_your_interest_subtitle">Choose your interests and get the best movie recommendations. Don\'t worry, you can always change it later.</string>
+
+    <string name="fill_your_profile_title">Fill Your Profile</string>
+    <string name="fill_your_profile_full_name">Full Name</string>
+    <string name="fill_your_profile_nickname">Nickname</string>
+    <string name="fill_your_profile_email">Email</string>
+    <string name="fill_your_profile_phone_number">Phone Number</string>
+    <string name="fill_your_profile_gender">Gender</string>
+    <string name="fill_your_profile_country">Country</string>
+
+    <string name="nav_explore">Explore</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_mylist">My List</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="search">Search</string>
+    <string name="not_found">Not Found</string>
+    <string name="not_found_text">Sorry, the keyword you entered could not be found. Try to check again or search with other keywords.</string>
+    <string name="sort_and_filter"><![CDATA[Sort & Filter]]></string>
+    <string name="reset">Reset</string>
+    <string name="apply">Apply</string>
+
+    <string name="pincode_screen_create_title">Create New PIN</string>
+    <string name="pincode_screen_create_subtitle">Add a PIN number to make your account more secure</string>
+    <string name="pincode_screen_confirm_title">Confirm PIN</string>
+    <string name="pincode_screen_confirm_subtitle">Re-enter your new PIN</string>
+    <string name="pincode_screen_apply_title">Enter Your PIN</string>
+    <plurals name="pincode_screen_apply_error">
+        <item quantity="one">Wrong PIN. %d attempt left. Try again</item>
+        <item quantity="other">Wrong PIN. %d attempts left. Try again</item>
+    </plurals>
+    <string name="pincode_screen_log_out">Log out</string>
+    <string name="pincode_screen_asterisk">\u2217</string>
+    <string name="pincode_screen_do_not_match">PINs do not match. Try again</string>
+
+    <string name="biometry_screen_title">Set Your Biometric</string>
+    <string name="biometry_screen_subtitle">Add a biometric to make your account more secure.</string>
+    <string name="biometry_screen_subtitle2">Please press to continue button to start by biometric initialization</string>
+    <string name="biometry_screen_error">Unable to set biometric</string>
+
+    <string name="onboarding_get_started_button">Get Started</string>
+    <string name="onboarding_page1_title">Welcome to Mova</string>
+    <string name="onboarding_page1_subtitle">The best movie streaming app of the century to make your days great!</string>
+    <string name="onboarding_page2_title">Convenient search</string>
+    <string name="onboarding_page2_subtitle">Find movies quickly with tags, save your favorite movies to “My list”</string>
+    <string name="onboarding_page3_title">Simple and easy</string>
+    <string name="onboarding_page3_subtitle">Share your favorite movies with your friends</string>
+    <string name="onboarding_skip">Skip</string>
+
+    <string name="my_list_title">My List</string>
+    <string name="my_list_empty_title">Your List is Empty</string>
+    <string name="my_list_empty_subtitle">It seems that you haven\'t added any movies to the list</string>
+    <string name="my_list_search">Search</string>
+    <string name="my_list_all_filter">All Categories</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_edit_title">Edit Profile</string>
+    <string name="profile_screen_premium_title">Join Premium!</string>
+    <string name="profile_screen_premium_subtitle">Enjoy watching Full-HD movies, without restrictions and without ads</string>
+    <string name="profile_edit">Edit Profile</string>
+    <string name="profile_notification">Notification</string>
+    <string name="profile_download">Download</string>
+    <string name="profile_security">Security</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_dark_mode">Dark Mode</string>
+    <string name="profile_help_center">Help Center</string>
+    <string name="profile_privacy_policy">Privacy Policy</string>
+    <string name="profile_fullname">Full name</string>
+    <string name="profile_nickname">Nickname</string>
+    <string name="profile_update">Update</string>
+    <string name="profile_logout">Log out</string>
+    <string name="profile_subscription">Subscription</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_non_binary">Non-binary</string>
+
+    <string name="movie_details_tab_trailers">Trailers</string>
+    <string name="movie_details_tab_like_this">More Like This</string>
+    <string name="movie_details_genres">Genre: %s</string>
+    <string name="movie_details_give_rating_title">Give Rating</string>
+    <string name="movie_details_give_rating_message">You are currently in guest mode. Registered users can rate </string>
+    <string name="movie_details_give_rating_cancel">Cancel</string>
+    <string name="movie_details_give_rating_sing_in">Sign in</string>
+
+    <string name="rating_title">Give Rating</string>
+    <string name="rating_max">/10</string>
+    <string name="rating_users_count">(%s users)</string>
+
+    <string name="settings_notification_title">Notification</string>
+    <string name="settings_notification_general">General Notification</string>
+    <string name="settings_notification_new_arrival">New Arrival</string>
+    <string name="settings_notification_new_services_available">New Services Available</string>
+    <string name="settings_notification_new_release_movie">New Releases Movie</string>
+    <string name="settings_notification_app_updates">App Updates</string>
+    <string name="settings_notification_subscription">Subscription</string>
+
+    <string name="settings_download_title">Download</string>
+    <string name="settings_download_wifi_only">Wi-Fi Only</string>
+    <string name="settings_download_smart_download">Smart Downloads</string>
+    <string name="settings_download_video_quality">Video Quality</string>
+    <string name="settings_download_voice_quality">Audio Quality</string>
+    <string name="settings_download_delete_all_downloads">Delete All Downloads</string>
+    <string name="settings_download_delete_cache">Delete Cache</string>
+
+    <string name="settings_security_title">Security</string>
+    <string name="settings_security_change_pin">Change PIN</string>
+    <string name="settings_security_change_password">Change Password</string>
+    <string name="settings_security_control">Control</string>
+    <string name="settings_security_alerts">Security Alerts</string>
+    <string name="settings_security_manage_device">Manage Devices</string>
+    <string name="settings_security_manage_permission">Manage Permission</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_security_remember_me">Remember me</string>
+    <string name="settings_security_face_id">Face ID</string>
+    <string name="settings_security_biometric_id">Biometric ID</string>
+    <string name="settings_security_google_auth">Google Authenticator</string>
+
+    <string name="settings_language_title">Language</string>
+    <string name="settings_language_suggested">Suggested</string>
+    <string name="settings_language">Language</string>
+
+
+    <string name="settings_privacy_title">Privacy Policy</string>
+    <string name="settings_privacy_first_message">Thank you for using MOVA! We here at MOVA care deeply about your privacy, and we strive to ensure that your personal information always stays safe while we work hard to provide you a service you love and trust. Our Privacy Policy explains how we collect, use, and transfer your information, and how you can control the use of the information that we collect. This Privacy Policy applies to all our products and services, including MOVA client apps, streaming content to the MOVA client apps, our premium MOVA Pass service, MOVA Media Server software, and all other MOVA software and services (collectively, our “Services”). Your personal content is stored on your personal hardware (“Personal Content”). Except in the limited circumstances described below, we do not collect filenames or content titles of your Personal Content. We do, however, keep usage statistics to allow us to better serve you and improve our Services. We may use information about how you use our Services to run and improve our Services, to provide, customize, and personalize communications and other content that we deliver or offer to you. This is discussed in detail below.</string>
+    <string name="settings_privacy_information_collect">Information We Collect</string>
+    <string name="settings_privacy_information_collect_text">
+        You may choose to provide us with certain information, such as when you create your user profile or when you use the Services. We may also collect automatically-generated and technical information. Therefore, the information we have (“Collected Information”) may include:\n
+        A. Profile Information. You may provide us with profile information such as your e-mail address, username, a profile image, and password when you create an account, or when you edit your account information. You may also provide us with your payment information when you sign-up for a paid service.\n
+        B. Information from External Services. If you choose to connect your account to an account of an external service, such as a social networking site, we may collect certain information from those accounts, such as your name and email address as well as data required to connect to that service. You may provide such authorization during the connection process, or it may be implicit in the service authorization itself. For example, if you choose to connect your MOVA account to a social networking account, we may collect your public profile information if you agree to the collection of this information during the connection process.\n
+        C. Metadata for Personal Content. Except for certain exceptions such as Third-Party Control and Playback Mechanisms and image analysis (i.e., metadata about photos when these features are user-enabled, such as geotag information or scene recognition analysis), as described below, we do not collect or store metadata (information about the specific file, cover art, subtitles, running length, etc.) for Personal Content stored on your personal MOVA Media Server. However, your MOVA Media Server may anonymously send us filenames or other identifiers for your Personal Content for the sole purpose of providing metadata back to your personal MOVA Media Server. You may disable this metadata matching capability.\n
+        D. Metadata for Personal Content for Integration with Third-Party Control and Playback Mechanisms. We may offer integrations with Third-Party Control and Playback Mechanisms that you may choose to use, such as Sonos, Amazon Alexa, IFTTT, Zapier, SmartThings, webhooks, etc. In order to provide the integrations with the Third-Party Control and Playback Mechanisms, we may collect Metadata for your Personal Content that is needed to integrate with the Third-Party Control and Playback Mechanisms. For example, if you use Amazon Alexa to play a particular song or movie from among your Personal Content at your home, then our Services may search your Personal Content in order to find and play the song or movie that you requested. Information provided by you to the Third-Party Control or Playback Mechanisms is not governed by this privacy policy.\n
+        E. Usage Statistics for Personal Content. We may collect usage statistics for Personal Content. This includes information about your interaction with the Services, such as device information, duration, bit rate, media formats, resolution, and media type (music, photos, videos, etc.). Where possible, we will generalize this information to avoid identifying your Personal Content. Usage statistics do not include specific content titles or filenames. We may use information related to your usage to run and improve our Services, to provide, customize, and personalize communications and other content that we deliver or offer to you.\n
+        F. Data Related to Third-Party Content. When you use the Services to watch, listen to, or record content from a third-party content provider or source such as any officially supported Third-Party Content that MOVA streams to MOVA apps, trailers and extras from Internet Video Archive (IVA), or use of our Live TV and DVR service, we may collect information related to that media interaction. For example, we may collect what program or movie you are watching and when, your interaction with any static or video advertising, etc. We may also collect your device information and device location, for example, by using your IP address or by asking for your zip code. We may use this information to run and improve our Services, provide advertising and marketing to you, as well as share anonymous or aggregated versions of the data with third parties.\n
+        G. Information about integrated Third-Party Services. We may collect information about your use of third-party services for reporting to these partners and calculating the fees that we owe them. For example, we report the number of trailers and extras viewed to IVA. We may also collect information about third party services and your use of those services in order to serve video content and advertisements via features that rely on third party providers. This information can include the metadata needed to serve advertising.\n
+        H. Information on our Services. We may store information about your configuration or use of our Services when you create a MOVA Media Server on a local device, connect to a MOVA Media Server that you or another person has configured, or download or connect to a MOVA app, or interact with or use other MOVA software or Service. This information may include an IP address and port number(s), the name of a MOVA Media Server, and information used to secure access to our Services.\n
+        I. Information about Interfacing Software. “Interfacing Software” includes but is not limited to, plug-ins for the Services, channel plug-ins, metadata agents, and client applications that communicate directly or indirectly with the Services. We may store copies of Interfacing Software that you provide to MOVA and that accesses or calls any software provided by MOVA as part of the Services.\n
+        J. Debugging and Other Information Voluntarily Provided. You may send us logs, metadata, or other information about your devices, media, and experiences for the purpose of resolving an issue you may have with the software or suggesting desired features. On client applications where it is possible, we will offer the ability to opt-out of sending crash reports. If you would like to learn more about the information being sent in crash reports, we encourage you to review the privacy policies for the third-party client applications you are using to access MOVA Services. The information being sent to us will only be used to help resolve your issue and / or improve our Services, and using our Services and provision of such information, you agree to such use by us.\n
+        K. Device Information. Like many online services, we may collect information about the devices that are used to access our Services, such as the IP address of the device, the operating system and version of the device, the browser that you use to access a MOVA web page, and the versions of the MOVA technologies being used. We may also collect location information about the devices that access our Services.\n
+        L. Application Information. When a request for information or content is sent to a MOVA Media Server, we may collect an application identifier that identifies which application sent the request. An application identifier uniquely identifies a particular copy of an application. For example, if you download an application from MOVA, fully uninstall the copy of the application, and then re-download the application from MOVA, the new copy of the application will be associated with a different application identifier than the uninstalled copy of the application. Note that simply deleting the app without fully uninstalling may not reset the application identifier.\n
+        M. MOVA Relay Service. We may provide, and you may choose to use, the MOVA Relay Service to connect or stream your Personal Content to another device. If you choose to use the MOVA Relay Service, we will transfer the data necessary to perform the service. All such traffic is encrypted from end-to-end in a manner that makes it impossible for MOVA or the MOVA Relay Service to decrypt or view any data. The data transferred via the MOVA Relay Service is not stored by MOVA except for the temporary buffering of data required to provide you with an optimal streaming experience. You can disable the MOVA Relay Service by turning off Remote Access in your server settings.\n
+        N. Cookies and Other Tracking Technology. Like many online services, MOVA uses cookies, tracking pixels, and similar technologies to collect information that helps us provide our Services to you. We also use these technologies to help market our products and services to you and other customers. For more information about these technologies and how you may control them\n
+        O. Obtaining Consent. If there is a change to any product or feature that we offer or have offered, and in order to use that product or feature a material change to the collection and / or use of information (including for Personal Content) not contemplated by the Privacy Policy is needed, we will obtain your consent before such collection and / or use.\n
+        P. Your Collected Information. In order to view, amend, erase, or correct your Collected Information. All requests will be answered within one month of receipt.
+    </string>
+    <string name="settings_privacy_information_sharing">Use, Processing, and Sharing of Your Information</string>
+    <string name="settings_privacy_information_sharing_text">
+        A. MOVA processes and uses Collected Information with your consent, you can withdraw your consent by updating your privacy settings or closing your account. MOVA also processes Collected Information when it needs to do so to fulfill a contract with you to provide you services, in its legitimate interest to aid in developing and improving the services, or when required by law. If you do not want to provide certain information to us in order to fulfil our agreement with you to provide the services, we may not be able to provide you the fullest version of our services.\n
+        B. We use the Collected Information to provide you with the Services, improve the Services, enhance your user experience, and communicate with you. For example, for Third-Party Content, we use information about your interactions with the Services to track the watch state of media items that have been linked to the Services on devices that have been linked to the Services. We use this information to allow you to resume watching in the same watch state on different MOVA-linked devices.\n
+        C. We use your profile information to contact you about your account or about new MOVA functionality and certain MOVA news and information. You may opt-out of certain types of communications by editing your account settings.\n
+        D. If you choose to connect your MOVA account to a third-party account or service to have us and /or that third party provide a particular feature or service, we will provide that external service with the information needed to have us and / or that third party perform the requested feature or service. For example, if you connect your account to a social networking site and give us permission to publish posts on your behalf, we will do so. Additionally, unless you request or allow us to publish other information, the content of the published posts will be limited to describing your interactions with the Services. As another example, if you choose to have us send (or “scrobble”) your listening history to Last.fm, obtain metadata from a third party service, or use a third-party recommendation service, we use Collected Information to engage with and / or send the Collected Information to that service when you request that service. The shared information may include metadata about the media (such as title, duration, author, cover art, dates associated with the media, and other relevant information) and information about the media itself (such as resolution, bit rate, format, location, etc.).\n
+        E. We use Collected Information related to Personal Content when you provide consent or otherwise request us to do so, as well as when necessary to provide the services you requested.\n
+        F. We use Collected Information related to Third-Party Content to allow us and our partners to personalize marketing, advertising, and other content delivered or offered to you. For example, we may use or share Collected Information related to Third-Party Content that is necessary to serve video content and advertisements, including the source of the content, full information about the content including title, device identifiers, timing and location of your consumption, your user information, your IP address, etc. We also share the metadata needed to serve video or audio advertising.\n
+        G. We also use and share payment information with our payment processor partner in order to process your payment for any services you order.\n
+        H. MOVA may share Collected Information as expressly set forth in this Privacy Policy, including the following limited situations:\n
+            i. With third parties that assist us in providing you with our Services, such as payment processors, business and analytics providers, content providers, marketers, and cloud service providers, but we require our third parties to only use your information for the purposes of providing the services requested of them and in accordance with this Privacy Policy.\n
+            ii. If we believe that the disclosure is reasonably necessary to (a) satisfy an applicable law, regulation, legal process, or enforceable governmental request; or (b) protect or defend the safety, rights, or property of MOVA, the public, or any person.\n
+            iii. In connection with a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or other proceeding involving MOVA that includes or requires the transfer of the information.\n
+            iv. If your information is a part of a set of non-private, aggregated, anonymized, or otherwise non-personal information, such as anonymized and / or aggregated usage statistics and viewing trends.\n
+            v. With third parties to improve and deliver advertising to you on our behalf.\n
+            vi. If you request or consent to our sharing of Collected Information with a third party.\n
+        I. We may apply automated decision-making to Collected Information to recommend content to you that we think you may be interested in.\n
+        J. We will not share with third parties for their use or sell Collected Information about your Personal Content.\n
+    </string>
+    <string name="settings_privacy_information_protect">Protection of Your Information</string>
+    <string name="settings_privacy_information_protect_text">
+        A. In order to help keep your media secure, we provide publicly trusted TLS certificates for end-to-end encrypted connections among all of our servers, Services, and client applications. For more information, please Preview our support article on the topic.\n
+        B. We have put in place commercially reasonable physical, electronic, and organizational procedures to safeguard and secure the information we collect. For example, password information is stored on our servers and is protected using hashing and encryption technologies.\n
+        С. We do not store any of your payment or credit card information on our servers. The data is encrypted and securely stored by an independent company\n
+    </string>
+    <string name="settings_privacy_third_party_products">Your Information and Terms of Third-Party Products and Services</string>
+    <string name="settings_privacy_third_party_products_text">A. MOVA may offer and you may choose to use products or services from third parties in connection with our Services that may contain links to or otherwise interface with third-party websites, products, services, or other technologies. Any such third-party technology may collect information from you or use other services or technologies that collect information from you. Any information collection by these third-party technologies is governed by the privacy practices of those third-party technologies. MOVA does not control and is not responsible for the collection of information by such third-party technologies.</string>
+    <string name="settings_privacy_children">Children</string>
+    <string name="settings_privacy_children_text">A. We do not knowingly collect personal information from children under the age of 13. If we learn that we have collected the personal information of a child under the age of 13, we will take steps to delete the information as soon as possible.</string>
+    <string name="settings_privacy_changes">Privacy Policy Changes</string>
+    <string name="settings_privacy_changes_text">This Privacy Policy may be updated from time to time. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on the MOVA website. You are advised to consult this Privacy Policy regularly for any changes.</string>
+    <string name="settings_privacy_internation_transfer">International Transfer</string>
+    <string name="settings_privacy_internation_transfer_text">If you use our services outside of the United States, we may transfer information from that jurisdiction to the United States, where data protection regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use our services in the European Union we will transfer data to the United States subject to standard contractual clauses.</string>
+    <string name="settings_privacy_information_control">Controlling Your Information</string>
+    <string name="settings_privacy_information_control_text">
+        You may exercise your rights to access, correct, erase, object to processing, and request data portability where applicable in the following ways:\n
+        A. Changing your profile information by accessing the Settings page of the MOVA website.\n
+        B. Linking or unlinking your account from another account of an external site, such as a social networking website.\n
+        C. Deleting your account. You may delete your account by selecting the option to delete your account in the Settings page. We will delete your information without unreasonable delay after receiving the request except that we may retain archived copies of your information as required by law.\n
+    </string>
+    <string name="settings_privacy_retention">Retention</string>
+    <string name="settings_privacy_retention_text">MOVA retains personal information you provide to create your account for as long as you maintain an account with us. Personal information used to provide the services to you will be kept long enough to provide you with the service, including in archives and logs used to maintain and develop the service. Specifically, we delete data used for logging and error tracking after 90 days, we reset cookies on our website after 14 days. We also delete other personal data used to provide the MOVA Solution or to communicate with you within 30 days after your account is deleted. We may retain some usage statistics (including IP addresses) for as long as we have a business purpose in order to improve MOVA’s services, but these statistics are no longer linked to the deleted account.</string>
+    <string name="settings_privacy_choice">Your Choices, Including Opt-Out Options</string>
+    <string name="settings_privacy_choice_text">
+        You have the following choices regarding how we and third parties use certain information collected from or about you. We are committed to complying with the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles for Online Behavioral Advertising and the DAA Application of Self-Regulatory Principles for the Mobile Environment.\n
+        A. Opt-Out from Promotional Communications..\n
+            i. You may opt out of receiving the marketing newsletter from us by accessing your account, selecting Settings on the MOVA website, and clicking “unsubscribe” in the Newsletter section. You may also opt out of certain promotional communications by clicking the “unsubscribe” link in a particular promotional communication. Please note that you cannot opt out from receiving all communications from us, including administrative messages, service announcements, and messages regarding the terms and conditions of your account.\n
+            ii. You can choose to receive push notifications from MOVA on your device. If you do not wish to receive push notifications, you can use your device’s settings to turn them off.\n
+        B. Opt-Out Options Page. Please visit the Opt-Out Options page to understand the options available to you regarding Third-Party Online Behavioral or Interest-Based Advertising and any specific third-party advertising companies’ opt out information.\n
+        C. Options for Sharing What You Watch. We may ask for your consent to have MOVA share your third-party media consumption information together with your personal information with our content programmers, service providers, and other third parties. If we have asked for your consent, we will provide you with a way to view or change your consent preference by updating your account settings.\n
+        D. Opt-Out of Playback Statistics. You may choose to opt-out of sharing the playback statistics for Personal Local Content that you store on your personal MOVA Media Server by updating your Privacy Preferences.\n
+        E. Opt-Out for Digital Advertising. MOVA may also use third-party advertising companies to serve ads, which may, directly or indirectly, collect or use information about user visits to websites and mobile app usage over time and across non-affiliated websites and mobile apps to display advertisements more tailored to users’ interests on this browser or device, and those browsers or devices associated with it. A user can visit www.aboutads.info/choices and/or download the appropriate version the AppChoices app at http://www.youradchoices.com/appchoices if a user wishes to learn more about this practice or would like to know more about his/her choices regarding that activity by companies participating in those choice tools. Please visit the Opt-Out Options for Third-Party Advertising page for any specific third party advertising companies’ opt-out information.\n
+        F. Withdraw Consent. You can withdraw your consent to our processing of personal information by updating your privacy settings, or closing your account.\n
+    </string>
+    <string name="settings_privacy_california_rights">California Privacy Rights</string>
+    <string name="settings_privacy_california_rights_text">
+        This section contains disclosures required by the California Consumer Privacy Act (“CCPA”) and applies only to “personal information” that is subject to the CCPA. Consumers with disabilities may access this notice by using a standard screen reader application.\n
+        Personal Information We Collect and Disclose for a Business Purpose. We collect the categories of personal information about California consumers identified here. As further set forth, in the past 12 months, we have disclosed California consumers’ personal information to third parties for business or commercial purposes. The following categories of personal information have been collected in the last 12 months.\n
+        Personal and online identifiers (such as first and last name, email address, or unique online identifiers)\n
+            * Categories of sources from which information is collected: Consumers, service providers, third parties and social media you connect to MOVA, content providers, advertisers on our Services\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services; Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Categories of Personal Information Categories of information described in Section 1798.80(e) of the California Civil Code (such as payment information)\n
+            * Categories of sources from which information is collected: Consumers\n
+            * Business or commercial purposes for collection, use, and sharing: Billing to provide you with your subscription services.\n
+            * Disclosed for business purposes to the following categories of third parties: Payment processors and service providers.\n
+        Categories of Personal Information Commercial or transactions information (such as records of products or services purchased, obtained or considered)\n
+            * Categories of sources from which information is collected: Consumers, advertisers on our Services, service providers\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services, Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Internet or other electronic network activity information (such as interactions with a website, email, application, or advertisement)\n
+            * Categories of sources from which information is collected: Consumers, advertisers on our Services, third parties and social media you connect to MOVA, service providers, and content providers\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services, Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Geolocation information (such as ZIP code)\n
+            * Categories of sources from which information is collected: Consumers, service providers\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services; Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Inferences drawn from the above information about your predicted characteristics and preferences\n
+            * Categories of sources from which information is collected: Consumers, service providers, and content providers\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services; Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Other information about you that is linked to the personal information above (such as metadata about content you view, timestamps to allow playback, and data related to third party content)\n
+            * Categories of sources from which information is collected: Consumers, service providers, third parties and social media you connect to MOVA, content providers, and advertisers on our Services\n
+            * Business or commercial purposes for collection, use, and sharing: Auditing related to our interactions with you; Legal compliance; Provide advertising on our Services; Content delivery and recommendations; Detecting and protecting against security incidents, fraud, and illegal activity; Debugging; Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics; Internal research for technological improvement; Internal operations; Activities to maintain and improve our services; and Other one-time uses.\n
+            * Disclosed for business purposes to the following categories of third parties: Content providers; service providers and vendors; third parties, such as social networks, you connect to MOVA; analytics providers; payment processors; and government entities.\n
+        Your Rights Regarding Personal Information.California residents have certain rights with respect to the personal information collected by businesses. If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations:\n
+            * The right to know the categories and specific pieces of personal information we collect, use, disclose, the categories of sources from which we collected your personal information, our purposes for collecting or selling your personal information, the categories of your personal information that we have disclosed for a business purpose, and the categories of third parties with which we have shared personal information;\n
+            * The right to request that we delete the personal information we have collected from you or maintain about you.\n
+            * The right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.\n
+        To exercise any of the above rights, please contact us using the following information and submit the required verifying information.We may require additional information to verify your requests to exercise your rights or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled. If you do have an account, we will require you to submit your request from the email address associated with your account. You may designate an authorized agent to make a CCPA request on your behalf by submitting a request from the email associated with your account and providing the MOVA username or email address of your agent. We do not sell personal information collected through our service, including not knowingly selling personal information about consumers under the age of 16.
+    </string>
+    <string name="settings_help_title">Help Center</string>
+    <string name="settings_help_customer_service">Customer Service</string>
+    <string name="settings_help_whatsapp">WhatsApp</string>
+    <string name="settings_help_website">Website</string>
+    <string name="settings_help_facebook">Facebook</string>
+    <string name="settings_help_twitter">Twitter</string>
+    <string name="settings_help_instagram">Instagram</string>
+    <string name="settings_help_faq_tab">FAQ</string>
+    <string name="settings_help_contact_us_tab">Contact us</string>
+    <string name="notification_screen_title">Notification</string>
+    <string name="profile_logout_dialog_message">Are you sure you want to log out?</string>
+    <string name="profile_logout_dialog_cancel">Cancel</string>
+    <string name="profile_logout_dialog_submit">Yes, Logout</string>
+
+
+    <string name="guest_screen_title">Sign up or sign in</string>
+    <string name="guest_screen_subtitle">You can see all movies and have more opportunities</string>
+    <string name="guest_screen_message">You are currently in guest mode.  To use all the functions of the application you must be logged</string>
+
+    <string name="home_add_in_favourite_error">Unable to update movie status</string>
+
+    <string name="forgot_password_screen_title">Forgot Password</string>
+    <string name="forgot_password_screen_subtitle">Select which contact details should we use to reset your password</string>
+    <string name="forgot_password_screen_via_sms">via SMS:</string>
+    <string name="forgot_password_screen_via_email">via Email:</string>
+    <string name="forgot_password_screen_via_sms_subtitle">+1 111 ******99</string>
+    <string name="forgot_password_screen_via_email_subtitle">and***ley@domain.com</string>
+    <string name="forgot_password_screen_continue">Continue</string>
+
+    <string name="otp_screen_code_send">Code has been send to</string>
+    <string name="otp_screen_code_send_email">and***ley@yourdomain.com</string>
+    <string name="otp_screen_resend_code_in">Resend code in</string>
+    <string name="otp_screen_resend_code">Resend code</string>
+    <string name="otp_screen_invalid_code">Invalid otp code</string>
+    <string name="otp_screen_resend_code_seconds"> s</string>
+    <string name="otp_screen_verify">Verify</string>
+
+    <string name="create_new_password_title">Create New Password</string>
+    <string name="create_new_password_subtitle">Create Your New Password</string>
+    <string name="create_new_password_remember_me">Remember me</string>
+
+    <string name="subscribe_to_premium_title">Subscribe to Premium</string>
+    <string name="subscribe_to_premium_subtitle">Enjoy watching Full-HD movies, without restrictions and without ads</string>
+    <string name="subscribe_to_premium_month">/month</string>
+    <string name="subscribe_to_premium_year">/year</string>
+    <string name="subscribe_to_premium_monthly_price">$9.99</string>
+    <string name="subscribe_to_premium_per_year_price">$99.99</string>
+    <string name="subscribe_to_premium_subscription_terms_1">Watch all you want. Ad-free.</string>
+    <string name="subscribe_to_premium_subscription_terms_2">Allows streaming  at 4K.</string>
+    <string name="subscribe_to_premium_subscription_terms_3">Video &amp; Audio Quality is Better.</string>
+
+    <string name="select_payment_title">Payment</string>
+    <string name="select_payment_subtitle">Select the payment method you want to use.</string>
+    <string name="select_payment_paypal">PayPal</string>
+    <string name="select_payment_google_pay">Google Pay</string>
+    <string name="select_payment_apple_pay">Apple Pay</string>
+    <string name="select_payment_add_cart">Add New Card</string>
+
+    <string name="add_new_card_holder_name">Card Holder Name</string>
+    <string name="add_new_card_expiry_date">Expiry date</string>
+    <string name="add_new_card_card_number">Card Number</string>
+    <string name="add_new_card_cvv">CVV</string>
+    <string name="add_new_add">Add</string>
+    <string name="add_new_month">07</string>
+    <string name="add_new_year">24</string>
+    <string name="add_new_card_mask">•••• •••• •••• ••••</string>
+    <string name="add_new_card_holder_mask">•••• ••••</string>
+    <string name="add_new_card_expire_date_mask">••••/••••</string>
+    <string name="add_new_card_validation_error">Card is not valid</string>
+    <string name="add_new_card_congrats">Your card has been added</string>
+    <string name="add_new_card_slash">/</string>
+
+    <string name="review_summary_title">Review Summary</string>
+    <string name="review_summary_amount">Amount</string>
+    <string name="review_summary_tax">Tax</string>
+    <string name="review_summary_total">Total</string>
+    <string name="review_summary_tax_amount_monthly">$1.99</string>
+    <string name="review_summary_tax_amount_yearly">$19.99</string>
+    <string name="review_summary_total_monthly">$11.98</string>
+    <string name="review_summary_total_yearly">$119.98</string>
+    <string name="review_summary_change_card">Change</string>
+    <string name="review_summary_confirm">Confirm Payment</string>
+    <string name="review_summary_successfully_year">You have successfully subscribed 1 year premium. Enjoy the benefits!</string>
+    <string name="review_summary_successfully_month">You have successfully subscribed 1 month premium. Enjoy the benefits!</string>
+
+    <string name="downloads_delete_title">Delete</string>
+    <string name="downloads_delete_subtitle">Are you sure you want to delete this movie download?</string>
+    <string name="downloads_delete_btn">Yes, Delete</string>
+    <string name="downloads_download">Download</string>
+    <string name="downloads_is_loading">Movies still downloading…\nPlease wait or hide the process</string>
+    <string name="downloads_progress">%s / %s MB</string>
+    <string name="downloads_progress_percentage">%s%%</string>
+    <string name="downloads_hide">Hide</string>
+    <string name="downloads_duration">1h 42m 33s</string>
+    <string name="downloads_size">1.4 GB</string>
+    <string name="downloads_is_downloading">Video is downloading…</string>
+    <string name="downloads_is_already_downloaded">Video is downloaded</string>
+    <string name="downloads_empty_list">Your Download List is Empty</string>
+    <string name="downloads_dialog">Are you sure you want to download this movie?</string>
+    <string name="downloads_dialog_cancel">Cancel</string>
+    <string name="downloads_dialog_submit">Yes, Download</string>
+
+</resources>
